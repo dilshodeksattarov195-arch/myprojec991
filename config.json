@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databaserync",
+        "uuid": 9551258,
+        "checksum": "d2zti9"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "production"
+    }
+}
